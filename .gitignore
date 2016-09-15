@@ -1,0 +1,3 @@
+## A file I use for development. Contains a list of
+## Neovim's msgpack-rpc procedures.
+neovim-api.txt
